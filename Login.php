@@ -22,10 +22,10 @@
    
      <input type="submit"name="Submit" value="Login">
 <br><br>
-<a href="http://localhost/xampp/registration.php">BACK</a>
+<a href="http://localhost/project/Registration.php">BACK</a>
 <br><br>
    </form>
-   for Registration Click <a href="http://localhost/xampp/registration.php">Here</a>
+   for Registration Click <a href="http://localhost/project/Registration.php">Here</a>
    </center>
 </body>
 </html>
